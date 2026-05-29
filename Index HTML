@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agro Forte, Futuro Sustentável</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>🌱 Agro Forte, Futuro Sustentável</h1>
+        <p>Equilíbrio entre produção e meio ambiente</p>
+    </header>
+
+    <section class="hero">
+        <h2>Produzir hoje pensando no amanhã</h2>
+        <button onclick="mostrarMensagem()">Saiba Mais</button>
+    </section>
+
+    <section class="conteudo">
+        <h2>O que é agricultura sustentável?</h2>
+        <p>
+            A agricultura sustentável busca aumentar a produção de alimentos
+            sem prejudicar os recursos naturais, utilizando técnicas que
+            preservam o solo, a água e a biodiversidade.
+        </p>
+    </section>
+
+    <section class="conteudo">
+        <h2>Preservação Ambiental</h2>
+        <p>
+            A preservação ambiental é fundamental para garantir a qualidade
+            de vida das pessoas e a conservação dos recursos naturais para
+            as futuras gerações.
+        </p>
+    </section>
+
+    <section class="conteudo">
+        <h2>Benefícios</h2>
+        <ul>
+            <li>🌳 Conservação das florestas</li>
+            <li>💧 Uso consciente da água</li>
+            <li>🌾 Produção sustentável</li>
+            <li>🐝 Proteção da biodiversidade</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Projeto Escolar - Agro Forte, Futuro Sustentável</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
